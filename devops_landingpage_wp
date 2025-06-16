@@ -1,0 +1,55 @@
+🎯 Prompt to Use with ChatGPT or Other AI Assistants
+Act as a skilled WordPress web developer and UI/UX designer experienced in building portfolio landing pages for DevOps engineers.
+
+I’m building a one-page portfolio website using the Astra theme in WordPress with the following free plugins already installed: Advanced Custom Fields (ACF), Contact Form 7, LiteSpeed Cache, Rank Math SEO, and Stackable Blocks.
+
+The portfolio is for an aspiring DevOps Engineer with:
+
+10 years of experience in IT Helpdesk/Support
+
+Currently learning: Linux, Docker, Kubernetes, CI/CD, Jenkins, AWS, Git, Ansible, SonarQube
+
+Actively working on personal DevOps projects to showcase soon
+
+Please help me design a professional, modern, informative, and visually dynamic landing page that’s also lightweight and responsive. I want:
+
+⚙️ Site Setup Goals:
+One-page layout (with option to expand later)
+
+Dynamic light/dark mode (based on system or time of day)
+
+Parallax scrolling and subtle floating icons (not performance-heavy)
+
+Separate custom blocks per section using Stackable + ACF
+
+Use of additional CSS for clean styling and animations
+
+A Contact Form that both emails and stores data in WP
+
+Designed-in blog section (even if content isn't live yet)
+
+🧱 Sections:
+Hero (with dynamic greeting, background animation, name, short tagline)
+
+About Me (friendly-professional tone, mention journey from helpdesk to DevOps)
+
+Experience (list of roles + skills)
+
+Skills (DevOps tool stack)
+
+DevOps Projects (placeholder for now)
+
+Contact (basic form with email + WP storage)
+
+Blog (linked or sectioned for future)
+
+📝 Additional Instructions:
+Help me generate content for each section based on the above context (you can ask clarifying questions).
+
+Suggest CSS snippets for parallax effects, floating icons, button hover, and light/dark transitions.
+
+Walk me through how to structure this in WordPress using Astra and Stackable blocks — step-by-step with screenshots (or annotated descriptions if no images).
+
+Ensure all recommendations use only free tools or plugins.
+
+Optional: Suggest ways to optimize SEO, performance, and accessibility.
