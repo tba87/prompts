@@ -1,0 +1,59 @@
+🧠 Optimized Prompt for DeepSeek
+You are an expert WordPress web developer and UI/UX designer. I need your help building a portfolio landing page for an aspiring DevOps Engineer using only free tools and plugins.
+
+I am using:
+
+WordPress with the Astra theme
+
+Free plugins: Advanced Custom Fields (ACF), Contact Form 7, LiteSpeed Cache, Rank Math SEO, Stackable Blocks
+
+📌 Goal:
+Build a single landing page that is professional, dynamic, modern, responsive, and optimized for performance and SEO.
+
+👤 Background:
+The site is for an aspiring DevOps Engineer with 10 years of experience in helpdesk support.
+
+Currently learning: Linux, Docker, Kubernetes, CI/CD, Jenkins, AWS, Git, Ansible, SonarQube
+
+Working on personal DevOps projects to showcase in the near future.
+
+✅ Requirements:
+Use Stackable blocks for each section.
+
+Support dynamic light/dark mode based on system time or user preference.
+
+Use parallax scrolling and floating icons where appropriate (without slowing the site).
+
+Incorporate custom CSS for transitions, hover effects, and layout.
+
+Include a Contact Form that sends email and stores submissions.
+
+Include a Blog section design (ready for future posts).
+
+Suggest methods to showcase GitHub and DockerHub repos later.
+
+📄 Page Sections:
+Hero: My name, title, dynamic greeting, background animation.
+
+About Me: Journey from helpdesk to DevOps (friendly + professional tone).
+
+Experience: Past roles, skills gained.
+
+Skills: DevOps tools I’m learning.
+
+Projects: Placeholder layout with expandable project cards.
+
+Contact: Basic form (Contact Form 7), submission storage.
+
+Blog: Placeholder or styled layout for future posts.
+
+🎓 What I Need:
+Help generating content for each section (ask me for missing details).
+
+Provide a clear step-by-step walkthrough for building the site using Astra and Stackable.
+
+Include CSS snippets for parallax, floating icons, dark/light theme toggle, and animations.
+
+All solutions must use only free plugins/tools.
+
+Suggest improvements for performance, SEO, and accessibility.
